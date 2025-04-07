@@ -1,24 +1,25 @@
 .page {
-  max-width: 1280px;
-  width: 100%;
-  margin: auto;
-  background-color: #2a2c2f;
+  background: #2a2c2f;
+  color: white;
   display: flex;
+  align-items: center;
   flex-direction: column;
-  align-items: flex-start;
+  margin: 0 auto;
+  font-family: Inter, Arial, sans-serif;
 }
 
-@media screen and (max-width: 1024px) and (min-width: 545px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .page {
-    max-width: 100%;
-    min-width: 545px;
+    width: 100%;
+    min-width: 768px;
+    margin: 0 auto;
   }
 }
 
-@media screen and (max-width: 544px) and (min-width: 320px) {
+@media screen and (max-width: 767px) {
   .page {
-    max-width: 100%;
+    width: 100%;
     min-width: 320px;
-    margin: 0;
+    margin: 0 auto;
   }
 }
