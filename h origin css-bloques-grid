@@ -1,0 +1,83 @@
+[33mcommit d3b5d28833735118db8f4d071e110d8a4af2ac7d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcss-bloques-grid[m[33m)[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Sun Apr 20 19:49:05 2025 -0600
+
+    Cambio en button conforme a lo sugerido
+
+[33mcommit 44f7d2ed85117c1e205dede92307f53988db83fb[m[33m ([m[1;31morigin/css-bloques-grid[m[33m)[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 11 17:44:45 2025 -0600
+
+    Elimina photo-grid__images.css y actualiza import en index.css
+
+[33mcommit 759041717080e351014f83d1f009a75d0a90fda4[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 11 17:35:23 2025 -0600
+
+    Corrige la ubicación de los selectores .photo-grid__image y nombre del bloque
+
+[33mcommit 9507d6a0e17d5542cfac462b48a2c69fc6543fe0[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 11 17:25:19 2025 -0600
+
+    Elimina photo__grid.css en css-bloques-grid
+
+[33mcommit e8ac2c2acf37320b54e103ef68d3815cae66062e[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 11 17:18:54 2025 -0600
+
+    WIP: cambios en index.html antes de cambiar a main
+
+[33mcommit 43852632633489ade39327248362c5109780358c[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 11 17:02:15 2025 -0600
+
+    Agrega bloques CSS para photo, photo-grid y photo-grid__image
+
+[33mcommit a7f8504e6f5c416f249b31d82ae5dc391ae6599a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cc79bee 4c5a445
+Author: CarlosDuro <81043870+CarlosDuro@users.noreply.github.com>
+Date:   Thu Apr 10 20:58:43 2025 -0600
+
+    Merge pull request #2 from CarlosDuro/css-bloques-grid
+    
+    Agrega estilos CSS para grid de fotos y bloques
+
+[33mcommit cc79bee7be6086d4ef2c80c5a17d915315cc0c06[m
+Merge: 7263105 1fd785c
+Author: CarlosDuro <81043870+CarlosDuro@users.noreply.github.com>
+Date:   Thu Apr 10 20:57:46 2025 -0600
+
+    Merge pull request #1 from CarlosDuro/index-bloques-html
+    
+    Modifica index.html para estructura inicial de bloques HTML
+
+[33mcommit 4c5a445a2ed482d8ca7b6c344503176fdcfedf65[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Mon Apr 7 07:59:15 2025 -0600
+
+    Agrega estilos CSS para grid de fotos y bloques
+
+[33mcommit 1fd785c71c0697f4f6fa12c0cab3b0b83fe8dff3[m[33m ([m[1;31morigin/index-bloques-html[m[33m, [m[1;32mindex-bloques-html[m[33m)[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Mon Apr 7 06:58:15 2025 -0600
+
+    Modifica index.html para estructura inicial de bloques HTML
+
+[33mcommit 7263105f712d9ba12a4bf80543ab8f56b77f31ad[m[33m ([m[1;31morigin/index-html-bloques[m[33m, [m[1;32mmain[m[33m, [m[1;32mindex-html-nuevos-bloque[m[33m, [m[1;32mindex-html-bloques[m[33m)[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Sat Apr 5 08:41:55 2025 -0600
+
+    Actualizar index.html con HTML Symbols Copyright
+
+[33mcommit 2a7938a6c538179bbfad3767a2d68f5021bd21e5[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 4 20:33:29 2025 -0600
+
+    Actualizar README.md con detalles del proyecto y enlace a GitHub Pages
+
+[33mcommit 91da86795eee87a9f90f030a2a09b55d2e657f98[m
+Author: CarlosDuro <durancarlosduran@gmail.com>
+Date:   Fri Apr 4 20:11:00 2025 -0600
+
+    Primer commit
